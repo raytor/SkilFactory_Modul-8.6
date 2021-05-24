@@ -57,10 +57,11 @@
 
             <div class="article">
                 <p class="text">
-                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
-                    Recusandae asperiores ducimus dolore explicabo. Animi est amet quibusdam molestias! 
-                    Minus laudantium sapiente dignissimos possimus natus cumque delectus sed, accusantium totam quia?
+                    создан блок с классом knowledge и в нем продемонстрированы полученные знания, в виде созданных переменных с присвоенным значением разного типа, которые выведены в коде, а затем отображены в браузере.
                 </p>
+				<p class="text">
+				созданы переменные со значением: имя, фамилия, возраст, город, результат кода выведен в браузере.
+				</p>
             </div>
         </div>
 
